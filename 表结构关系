@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-03T13:58:58.995Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36" etag="jmEHXXgLkDhrzNiIx8-K" version="17.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-03T14:04:02.926Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36" etag="fFe94WYseOTJl-TAnnxF" version="17.4.0" type="github">
   <diagram id="oyGVV7KjMI_zxxPk40at" name="Page-1">
     <mxGraphModel dx="1021" dy="1736" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#B9E0A5" math="0" shadow="0">
       <root>
@@ -235,7 +235,7 @@
         <mxCell id="_sWXtcve4rT3n1nV0z64-116" value="UserList" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="637.5" y="906" width="225" height="46" as="geometry" />
         </mxCell>
-        <mxCell id="_sWXtcve4rT3n1nV0z64-117" value="合同授权表" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="_sWXtcve4rT3n1nV0z64-116">
+        <mxCell id="_sWXtcve4rT3n1nV0z64-117" value="mips用户表" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="_sWXtcve4rT3n1nV0z64-116">
           <mxGeometry y="26" width="225" height="20" as="geometry" />
         </mxCell>
         <mxCell id="_sWXtcve4rT3n1nV0z64-119" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=16;" edge="1" parent="1" source="_sWXtcve4rT3n1nV0z64-108" target="_sWXtcve4rT3n1nV0z64-116">
